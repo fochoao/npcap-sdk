@@ -1,0 +1,4 @@
+﻿E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (C:\npcap-sdk\WinPcap_Devpack\Examples-pcap\\Debug\x64\) contains files shared from another project (iflist.vcxproj, pcap_filter.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendpack.vcxproj, UDPdump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  unity_NP7ZWU2SIJK188HT.cpp
+LINK : fatal error LNK1181: cannot open input file 'C:\npcap-sdk\WinPcap_Devpack\Examples-pcap\\Debug\x64\unity_NP7ZWU2SIJK188HT.obj'

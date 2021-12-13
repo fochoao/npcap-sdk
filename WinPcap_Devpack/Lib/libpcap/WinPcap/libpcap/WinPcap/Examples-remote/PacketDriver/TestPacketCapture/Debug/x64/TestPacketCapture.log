@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TestPacketCapture.c
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\TestPacketCapture.c(220,12): warning C4477: 'printf' : format string '%08lx' requires an argument of type 'unsigned long', but variadic argument 1 has type '__int64'
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\TestPacketCapture.c(220,12): message : consider using '%llx' in the format string
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\TestPacketCapture.c(220,12): message : consider using '%Ix' in the format string
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\TestPacketCapture.c(220,12): message : consider using '%I64x' in the format string
+  TestPacketCapture.vcxproj -> C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\Debug\x64\TestPacketCapture.exe

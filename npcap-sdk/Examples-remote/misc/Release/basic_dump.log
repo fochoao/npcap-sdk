@@ -1,0 +1,5 @@
+﻿E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\examples\misc\release\vc142.pdb' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (basic_dump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendpack.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  basic_dump.c
+basic_dump.obj : warning LNK4099: PDB 'vc142.pdb' was not found with 'basic_dump.obj' or at 'C:\npcap-sdk\Examples\Release\vc142.pdb'; linking object as if no debug info
+  basic_dump.vcxproj -> C:\npcap-sdk\Examples\Release\basic_dump.exe

@@ -1,0 +1,16 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  test6.c
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\test6.c(128,37): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\test6.c(128,37): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  RadiotapPrint.c
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(109,20): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(312,25): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(312,25): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(316,25): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(316,25): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(321,32): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(321,32): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(326,32): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\RadiotapPrint.c(326,32): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating Code...
+  airpcap_and_libpcap.vcxproj -> C:\npcap-sdk\npcap-sdk\samples\airpcap_and_libpcap\Debug\x64\airpcap_and_libpcap.exe

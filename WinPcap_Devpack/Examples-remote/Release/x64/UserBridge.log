@@ -1,0 +1,14 @@
+﻿E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\pktdump_ex.obj' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\sendcap.obj' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\sendcap.pdb' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\vc142.pdb' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (C:\npcap-sdk\WinPcap_Devpack\Examples-remote\\Release\x64\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, GetMacAddress.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pcap_fopen.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendcap.vcxproj, sendpack.vcxproj, smp_1.vcxproj, tcptop.vcxproj, TestPacketCapture.vcxproj, TestPacketSend.vcxproj, UDPdump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UserBridge.c
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UserLevelBridge\UserBridge.c(359,52): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UserLevelBridge\UserBridge.c(359,52): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+UserBridge.pdo : warning LNK4204: 'C:\npcap-sdk\WinPcap_Devpack\Examples-remote\Release\x64\UserBridge.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  UserBridge.vcxproj -> C:\npcap-sdk\WinPcap_Devpack\Examples-remote\Release\x64\UserBridge.exe

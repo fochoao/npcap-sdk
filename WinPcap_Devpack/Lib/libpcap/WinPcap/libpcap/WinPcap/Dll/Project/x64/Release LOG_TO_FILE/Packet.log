@@ -1,0 +1,4 @@
+﻿  AdInfo.cpp
+C:\npcap-sdk\Examples\x64\Release\libpcap\WinPcap\Dll\AdInfo.cpp(104,10): fatal error C1083: Cannot open include file: 'Packet32.h': No such file or directory
+  Packet32.cpp
+C:\npcap-sdk\Examples\x64\Release\libpcap\WinPcap\Dll\Packet32.cpp(95,10): fatal error C1083: Cannot open include file: 'Packet32.h': No such file or directory

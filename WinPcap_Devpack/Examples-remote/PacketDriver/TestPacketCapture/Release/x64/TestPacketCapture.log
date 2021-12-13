@@ -1,0 +1,10 @@
+﻿  TestPacketCapture.c
+TestPacketCapture.c(220): warning C4477: 'printf' : format string '%08lx' requires an argument of type 'unsigned long', but variadic argument 1 has type '__int64'
+  TestPacketCapture.c(220): note: consider using '%llx' in the format string
+  TestPacketCapture.c(220): note: consider using '%Ix' in the format string
+  TestPacketCapture.c(220): note: consider using '%I64x' in the format string
+  Generating code
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TestPacketCapture.vcxproj -> C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\\Release\x64\TestPacketCapture.exe
+  TestPacketCapture.vcxproj -> C:\npcap-sdk\WinPcap_Devpack\Examples-remote\PacketDriver\TestPacketCapture\\Release\x64\TestPacketCapture.pdb (Full PDB)

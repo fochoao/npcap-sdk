@@ -1,0 +1,5 @@
+﻿  AdInfo.cpp
+C:\npcap-sdk\Common\Packet32.h(110,10): fatal error C1083: Cannot open include file: 'airpcap.h': No such file or directory
+  Packet32.cpp
+C:\npcap-sdk\Common\Packet32.h(110,10): fatal error C1083: Cannot open include file: 'airpcap.h': No such file or directory
+  Generating Code...

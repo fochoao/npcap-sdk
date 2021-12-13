@@ -1,0 +1,13 @@
+﻿E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\pktdump_ex.obj' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\sendcap.obj' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\sendcap.pdb' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\winpcap_devpack\examples-remote\release\x64\vc142.pdb' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (C:\npcap-sdk\WinPcap_Devpack\Examples-remote\\Release\x64\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, GetMacAddress.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pcap_fopen.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendcap.vcxproj, sendpack.vcxproj, smp_1.vcxproj, tcptop.vcxproj, TestPacketCapture.vcxproj, TestPacketSend.vcxproj, UserBridge.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UDPdump.c
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UDPdump\UDPdump.c(130,18): warning C4473: 'fprintf' : not enough arguments passed for format string
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UDPdump\UDPdump.c(130,18): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UDPdump\UDPdump.c(130,18): message : the missing variadic argument 1 is required by format string '%s'
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UDPdump\UDPdump.c(200,13): warning C4013: 'localtime_s' undefined; assuming extern returning int
+C:\npcap-sdk\WinPcap_Devpack\Examples-remote\UDPdump\UDPdump.c(201,10): warning C4013: 'strftime' undefined; assuming extern returning int
+LINK : warning LNK4044: unrecognized option '/FR'; ignored
+LINK : fatal error LNK1181: cannot open input file 'wpcap.lib'

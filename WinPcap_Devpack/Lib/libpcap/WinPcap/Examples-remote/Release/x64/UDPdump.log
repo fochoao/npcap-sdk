@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (C:\npcap-sdk\WinPcap_Devpack\Examples-remote\\Release\x64\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, GetMacAddress.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pcap_fopen.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendcap.vcxproj, sendpack.vcxproj, smp_1.vcxproj, tcptop.vcxproj, TestPacketCapture.vcxproj, TestPacketSend.vcxproj, UserBridge.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  UDPdump.c
+UDPdump.c(130): warning C4473: 'fprintf' : not enough arguments passed for format string
+  UDPdump.c(130): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  UDPdump.c(130): note: the missing variadic argument 1 is required by format string '%s'
+UDPdump.c(200): warning C4013: 'localtime_s' undefined; assuming extern returning int
+UDPdump.c(201): warning C4013: 'strftime' undefined; assuming extern returning int
+LINK : warning LNK4044: unrecognized option '/FR'; ignored
+LINK : fatal error LNK1181: cannot open input file 'wpcap.lib'

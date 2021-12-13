@@ -1,0 +1,191 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (C:\npcap-sdk\WinPcap_Devpack\Examples-remote\\Release\x64\) contains files shared from another project (basic_dump.vcxproj, GetMacAddress.vcxproj, iflist.vcxproj, pcap_filter.vcxproj, pcap_fopen.vcxproj, pktdump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj, sendcap.vcxproj, sendpack.vcxproj, smp_1.vcxproj, tcptop.vcxproj, TestPacketCapture.vcxproj, TestPacketSend.vcxproj, UDPdump.vcxproj, UserBridge.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  basic_dump_ex.c
+  Note: including file: C:\npcap-sdk\WinPcap_Devpack\include\pcap.h
+  Note: including file:  c:\npcap-sdk\winpcap_devpack\include\pcap/pcap.h
+  Note: including file:   c:\npcap-sdk\winpcap_devpack\include\pcap-stdinc.h
+  Note: including file:    C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winsock2.h
+  Note: including file:     C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\windows.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\sdkddkver.h
+  Note: including file:      E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\excpt.h
+  Note: including file:       E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+  Note: including file:        E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h
+  Note: including file:         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ConcurrencySal.h
+  Note: including file:        E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vadefs.h
+  Note: including file:      E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdarg.h
+  Note: including file:       E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\windef.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h
+  Note: including file:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\ctype.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt.h
+  Note: including file:          E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wctype.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\specstrings.h
+  Note: including file:         c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h
+  Note: including file:         c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h
+  Note: including file:         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\specstrings_strict.h
+  Note: including file:          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\specstrings_undef.h
+  Note: including file:         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\driverspecs.h
+  Note: including file:          c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sdv_driverspecs.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\kernelspecs.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\basetsd.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\guiddef.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h
+  Note: including file:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memory.h
+  Note: including file:           C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_memcpy_s.h
+  Note: including file:            C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\errno.h
+  Note: including file:            E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_string.h
+  Note: including file:             E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+  Note: including file:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\pshpack4.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack4.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\pshpack4.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\pshpack2.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\poppack.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\pshpack2.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack2.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\poppack.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\pshpack8.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\poppack.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ktmtypes.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winbase.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winerror.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\wingdi.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack2.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack2.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack4.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack4.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winuser.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack2.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\tvout.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnls.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\wincon.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winver.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\verrsrc.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winreg.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\reason.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnetwk.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\wnnc.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\cderr.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dde.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ddeml.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dlgs.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\lzexpand.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\mmsystem.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\nb30.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpc.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcdce.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcdcep.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcnsi.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcnterr.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcasync.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\shellapi.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winperf.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winsock.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\wincrypt.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\bcrypt.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ncrypt.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winefs.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winscard.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\wtypes.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\rpcndr.h
+  Note: including file:         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcnsip.h
+  Note: including file:         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\rpcsal.h
+  Note: including file:         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        c:\program files (x86)\microsoft sdks\windows\v7.1a\include\guiddef.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winioctl.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack1.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       c:\program files (x86)\microsoft sdks\windows\v7.1a\include\winsmcrd.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winspool.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\prsht.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ole2.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\objbase.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_malloc.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_search.h
+  Note: including file:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h
+  Note: including file:         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdlib.h
+  Note: including file:         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits.h
+  Note: including file:          E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\unknwn.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\objidl.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\guiddef.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\cguid.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\urlmon.h
+  Note: including file:         c:\program files (x86)\microsoft sdks\windows\v7.1a\include\oleidl.h
+  Note: including file:         c:\program files (x86)\microsoft sdks\windows\v7.1a\include\servprov.h
+  Note: including file:         c:\program files (x86)\microsoft sdks\windows\v7.1a\include\msxml.h
+  Note: including file:          c:\program files (x86)\microsoft sdks\windows\v7.1a\include\oaidl.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\propidl.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\oleauto.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\pshpack8.h
+  Note: including file:        C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\poppack.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\commdlg.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\stralign.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winsvc.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\mcx.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\imm.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ime_cmodes.h
+  Note: including file:     C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ws2def.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\inaddr.h
+  Note: including file:     C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\qos.h
+  Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\fcntl.h
+  Note: including file:    c:\npcap-sdk\winpcap_devpack\include\bittypes.h
+  Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h
+  Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wtime.h
+  Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\io.h
+  Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_io.h
+  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_share.h
+  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wio.h
+  Note: including file:    c:\npcap-sdk\winpcap_devpack\include\IP6_misc.h
+  Note: including file:     C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ws2tcpip.h
+  Note: including file:      C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ws2ipdef.h
+  Note: including file:       C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\in6addr.h
+  Note: including file:   c:\npcap-sdk\winpcap_devpack\include\pcap-bpf.h
+  Note: including file:    c:\npcap-sdk\winpcap_devpack\include\pcap/bpf.h
+  Note: including file:   C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h
+  Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h
+  Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_stdio_config.h
+  Note: including file:   c:\npcap-sdk\winpcap_devpack\include\Win32-Extensions.h
+  Note: including file:   c:\npcap-sdk\winpcap_devpack\include\remote-ext.h
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  basic_dump_ex.vcxproj -> C:\npcap-sdk\WinPcap_Devpack\Examples-remote\\Release\x64\basic_dump_ex.exe
+  basic_dump_ex.vcxproj -> C:\npcap-sdk\WinPcap_Devpack\Examples-remote\\Release\x64\basic_dump_ex.pdb (Full PDB)
