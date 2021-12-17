@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\npcap-sdk\npcap-sdk\Examples-remote\sendcap\x64\Release\sendcap.exe</FullPath>
+      <FullPath>C:\npcap-sdk\Examples\x64\Release\sendcap.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
