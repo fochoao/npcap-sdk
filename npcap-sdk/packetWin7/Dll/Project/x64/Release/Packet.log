@@ -1,9 +1,0 @@
-﻿  AdInfo.cpp
-  Packet32.cpp
-  Compiling Packet.dll with support for AirPcap
-     Creating library C:\npcap-sdk\npcap-sdk\packetWin7\Dll\Project\x64\Release\Packet.lib and object C:\npcap-sdk\npcap-sdk\packetWin7\Dll\Project\x64\Release\Packet.exp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Packet.vcxproj -> C:\npcap-sdk\npcap-sdk\packetWin7\Dll\Project\x64\Release\Packet.dll
