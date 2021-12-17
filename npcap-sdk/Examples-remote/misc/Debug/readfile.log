@@ -1,0 +1,3 @@
+﻿E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, sendpack.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  readfile.c
+  readfile.vcxproj -> C:\npcap-sdk\Examples\Debug\readfile.exe

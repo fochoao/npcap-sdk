@@ -1,0 +1,5 @@
+﻿E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : The process cannot access the file 'c:\npcap-sdk\examples\misc\debug\vc142.pdb' because it is being used by another process.
+E:\VS2019\VS2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (basic_dump.vcxproj, basic_dump_ex.vcxproj, readfile.vcxproj, readfile_ex.vcxproj, savedump.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  sendpack.c
+C:\npcap-sdk\Examples\misc\sendpack.c(63,4): warning C4098: 'main': 'void' function returning a value
+  sendpack.vcxproj -> C:\npcap-sdk\Examples\Debug\sendpack.exe

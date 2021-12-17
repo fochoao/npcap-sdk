@@ -1,0 +1,4 @@
+﻿  UserBridge.c
+C:\npcap-sdk\Examples\UserLevelBridge\UserBridge.c(384,52): warning C4474: 'printf' : too many arguments passed for format string
+C:\npcap-sdk\Examples\UserLevelBridge\UserBridge.c(384,52): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  UserBridge.vcxproj -> C:\npcap-sdk\Examples\Release\UserBridge.exe
